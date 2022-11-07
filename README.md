@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-`python detect.py --weights best_cigarette.pt --conf 0.1 --source testing.jpeg --cigarette_blurrate 50 --shape_detector shape_predictor_68_face_landmarks.dat`
+python detect.py --weights best_cigarette.pt --conf 0.1 --source test2.jpeg --cigarette_blurrate 50 --shape_detector shape_predictor_68_face_landmarks.dat
 
  - Run for webcam
  
