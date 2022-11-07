@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/Object-Tracking-Dashboard-YOLOv7/blob/main/Screen%20Shot%201444-04-11%20at%2011.08.33%20PM.png">
+<img src="https://github.com/noorkhokhar99/Yolov7-Cigarette-Censor/blob/main/Screen%20Shot%201444-04-12%20at%2011.51.38%20PM.png">
 </p>
 
 
