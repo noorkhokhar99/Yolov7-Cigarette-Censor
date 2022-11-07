@@ -1,4 +1,4 @@
-# Yolov7-cigarette-censor-and-smokers-face-recorder
+# yolov7 cigarette censor smokers face detection
 
 
 
