@@ -42,3 +42,8 @@ pip install -r requirements.txt
 
 ### Inference on a video:
 https://www.youtube.com/c/pyresearch
+
+
+
+[![Watch the video](https://github.com/noorkhokhar99/Yolov7-Cigarette-Censor/blob/main/Screen%20Shot%201444-04-12%20at%2011.51.38%20PM.png)](https://youtu.be/r7jdMdGHsL8)
+
